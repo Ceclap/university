@@ -1,0 +1,3 @@
+/home/victor/Desktop/MN1-1/cmake-build-debug/CMakeFiles/MN1_1.dir
+/home/victor/Desktop/MN1-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/victor/Desktop/MN1-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

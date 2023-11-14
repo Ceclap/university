@@ -1,0 +1,3 @@
+/home/victor/Desktop/Universitate/APA/apaLab2/cmake-build-debug/CMakeFiles/apaLab2.dir
+/home/victor/Desktop/Universitate/APA/apaLab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/victor/Desktop/Universitate/APA/apaLab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
